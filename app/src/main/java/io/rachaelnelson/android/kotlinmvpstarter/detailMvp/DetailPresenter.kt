@@ -17,7 +17,7 @@ internal class DetailPresenter(private val interactionModel: DetailInteractor, p
 
     // region DetailPresenter methods
     fun fetchOnSwipeRefresh() {
-
+        // check the db to see if any data has changed
     }
     // endregion
 
